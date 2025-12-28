@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | UI-Focused | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=panhadebug&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vue,tailwind,figma" />
 </p>
 
 ### 🖥️ Backend
@@ -49,21 +49,12 @@
 ---
 
 ## 📊 GitHub Stats
+
+
 ![GitHub Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panhadebug&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panhadebug&layout=compact&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=panhadebug&theme=tokyo-night&hide_border=true)
 
-<p align="center">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=panhadebug&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=panhadebug&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
 
 ---
 
@@ -78,11 +69,14 @@
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/panhadebug" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/>
+  <a href="https://thokpanha.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thok-panha/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
