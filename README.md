@@ -49,7 +49,9 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panhadebug&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panhadebug&layout=compact&theme=tokyonight)
 
 ![GitHub Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panhadebug&theme=tokyonight)
 
