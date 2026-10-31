@@ -1,102 +1,107 @@
-# 👋 Hi, I'm Panha
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Panha;Full-Stack+Developer+%7C+UI+Enthusiast" alt="Typing SVG" />
+</h1>
 
-### Junior Full-Stack Developer | React • Laravel • PostgreSQL
-
-I build web applications with a focus on clean interfaces, practical functionality, and maintainable code. I'm continuously developing my skills in frontend and backend engineering through hands-on projects and real-world problem solving.
-
-<p align="left">
-  <a href="https://github.com/panhadebug">
-    <img src="https://komarev.com/ghpvc/?username=panhadebug&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://github.com/panhadebug?tab=followers">
-    <img src="https://img.shields.io/github/followers/panhadebug?label=Followers&style=flat-square&color=2563eb" alt="GitHub followers" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 💻 Focused on **Full-Stack Web Development**.
-- ⚛️ Building frontend applications with **React and JavaScript**.
-- ⚙️ Developing backend applications with **PHP and Laravel**.
-- 🗄️ Working with **PostgreSQL and relational databases**.
-- 🧩 Interested in software architecture, API development, and problem-solving.
-- 🌱 Continuously learning through practical projects and hands-on development.
-
----
-
-## 🧰 Tech Stack
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" alt="HTML, CSS, JavaScript, React, Vue, Tailwind CSS" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP and Laravel" />
-</p>
-
-**Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-</p>
-
-**Tools & Design**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code and Figma" />
-</p>
-
-**Additional Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Dart and Flutter" />
-</p>
-
----
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=panhadebug&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=panhadebug&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
+<p align="center">
+  <em>Building clean, scalable, and user-centered digital products.</em>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=panhadebug&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
-    width="95%"
-  />
-</p> -->
+  <a href="https://thokpanha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/thok-panha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thokpanhaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/panhaismaname">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
-## 🎯 Current Focus
+### 👋 About
 
-- Building complete full-stack applications.
-- Improving React component design and state management.
-- Developing RESTful APIs with Laravel.
-- Designing relational databases with PostgreSQL.
-- Practicing clean code, testing, and application architecture.
+I’m a **Full-Stack Developer** based in Cambodia, focused on building modern web and mobile applications with clean interfaces, reliable APIs, and scalable architecture.
+
+I enjoy taking ideas from concept to production—designing intuitive UI, developing maintainable backend systems, and solving real product problems.
+
+- 🔭 Currently building full-stack web and mobile applications  
+- 🌱 Learning advanced React patterns, backend security, and clean architecture  
+- 💬 Open to collaborating on web, mobile, and UI-focused projects  
+- ⚡ Motivated by clean code, good design, and practical solutions  
 
 ---
 
-## 🌐 Connect With Me
+### 🧰 Tech Stack
 
-<p align="left">
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vue,tailwind,figma" alt="Frontend technologies" />
+</p>
+
+#### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgresql" alt="Backend technologies" />
+</p>
+
+#### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Mobile technologies" />
+</p>
+
+---
+
+### 🧠 What I Do
+
+| Area | Focus |
+|---|---|
+| **Web Development** | Responsive interfaces, component-based architecture, modern UI |
+| **Backend Development** | RESTful APIs, authentication, business logic, Laravel |
+| **Database Design** | PostgreSQL, relational modeling, performance optimization |
+| **Mobile Development** | Cross-platform apps using Flutter and Dart |
+| **UI/UX** | Figma prototyping, design systems, accessible interfaces |
+
+---
+
+### 🚀 Featured Projects
+
+<!-- Replace these with your best repositories -->
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Project One](https://github.com/panhadebug)** | Short description of the project and the problem it solves. | React · Laravel · PostgreSQL |
+| **[Project Two](https://github.com/panhadebug)** | Short description highlighting the main feature or impact. | Next.js · Tailwind CSS |
+| **[Project Three](https://github.com/panhadebug)** | Short description of a mobile or full-stack application. | Flutter · Dart · Firebase |
+
+> 💡 Tip: Pin these repositories on your GitHub profile and replace the links with real project URLs.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panhadebug&theme=tokyonight" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panhadebug&theme=tokyonight" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panhadebug&theme=tokyonight" alt="Most committed languages" />
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+<p align="center">
   <a href="https://github.com/panhadebug">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://thokpanha.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -105,15 +110,13 @@ I build web applications with a focus on clean interfaces, practical functionali
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:thokpanhaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/panhaismaname">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
+  <img src="https://komarev.com/ghpvc/?username=panhadebug&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile views" />
 </p>
