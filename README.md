@@ -80,8 +80,6 @@ I enjoy taking ideas from concept to production—designing intuitive UI, develo
 | **[Project Two](https://github.com/panhadebug)** | Short description highlighting the main feature or impact. | Next.js · Tailwind CSS |
 | **[Project Three](https://github.com/panhadebug)** | Short description of a mobile or full-stack application. | Flutter · Dart · Firebase |
 
-> 💡 Tip: Pin these repositories on your GitHub profile and replace the links with real project URLs.
-
 ---
 
 ### 📊 GitHub Analytics
