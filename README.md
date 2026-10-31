@@ -112,7 +112,7 @@ I enjoy taking ideas from concept to production—designing intuitive UI, develo
   <a href="mailto:thokpanhaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/panhaismaname">
+  <a href="https://t.me/thokpanha">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
