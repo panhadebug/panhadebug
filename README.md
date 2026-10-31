@@ -16,7 +16,7 @@
   <a href="mailto:thokpanhaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/panhaismaname">
+  <a href="https://t.me/thokpanha">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
@@ -29,7 +29,7 @@ I’m a **Full-Stack Developer** based in Cambodia, focused on building modern w
 
 I enjoy taking ideas from concept to production—designing intuitive UI, developing maintainable backend systems, and solving real product problems.
 
-- 🔭 Currently building full-stack web and mobile applications  
+- 🔭 Currently building full-stack web development  
 - 🌱 Learning advanced React patterns, backend security, and clean architecture  
 - 💬 Open to collaborating on web, mobile, and UI-focused projects  
 - ⚡ Motivated by clean code, good design, and practical solutions  
