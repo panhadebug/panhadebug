@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://thokpanha.vercel.app/">
+  <a href="https://panhadev-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/thok-panha/">
