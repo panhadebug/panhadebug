@@ -101,7 +101,7 @@ I enjoy taking ideas from concept to production—designing intuitive UI, develo
   <a href="https://github.com/panhadebug">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://thokpanha.vercel.app/">
+  <a href="https://panhadev-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/thok-panha/">
